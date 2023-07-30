@@ -1,7 +1,7 @@
 export default function Red () {
 
     return (
-        <div>
+        <div className="red">
 
         </div>
     );
