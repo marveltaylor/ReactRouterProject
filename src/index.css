@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+.home {
+  background-color: rgb(87, 238, 28);
+}
+
 body,
 body > div {
   height: 100vh;
