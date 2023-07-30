@@ -11,9 +11,9 @@ function App() {
     <>
       <div id="container">
       <div id="navbar">
+        <Link to="/home">Home</Link>
         <Link to="/blue">Blue</Link>
         <Link to="/red">Red</Link>
-        <Link to="/home">Home</Link>
       </div>
       <div id="main-section">
         <Routes>
