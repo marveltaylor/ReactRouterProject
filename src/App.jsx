@@ -1,4 +1,6 @@
 import { Routes, Route, Link } from 'react-router-dom';
+import Blue from './components.jsx'
+import Red from './components.jsx'
 import { useState } from 'react';
 import './App.css';
 
