@@ -1,8 +1,7 @@
 export default function Blue () {
 
     return (
-        <div>
-
+        <div className="blue">
         </div>
     );
 }
