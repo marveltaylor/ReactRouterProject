@@ -17,9 +17,9 @@ function App() {
       </div>
       <div id="main-section">
         <Routes>
+          <Route path="/home" element={<Home />}/>
           <Route path="/blue" element={<Blue />}/>
           <Route path="/red" element={<Red />}/>
-          <Route path="/home" element={<Home />}/>
         </Routes>
       </div>
     </div>
