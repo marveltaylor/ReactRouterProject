@@ -1,4 +1,5 @@
 import { Routes, Route, Link } from 'react-router-dom';
+import Home from './components.jsx'
 import Blue from './components.jsx'
 import Red from './components.jsx'
 import { useState } from 'react';
